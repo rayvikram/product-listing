@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/product-listing/static/css/main.530fc570.chunk.css",
+    "main.js": "/product-listing/static/js/main.f3c506e6.chunk.js",
+    "main.js.map": "/product-listing/static/js/main.f3c506e6.chunk.js.map",
+    "runtime-main.js": "/product-listing/static/js/runtime-main.deece3d5.js",
+    "runtime-main.js.map": "/product-listing/static/js/runtime-main.deece3d5.js.map",
+    "static/js/2.980dd07e.chunk.js": "/product-listing/static/js/2.980dd07e.chunk.js",
+    "static/js/2.980dd07e.chunk.js.map": "/product-listing/static/js/2.980dd07e.chunk.js.map",
+    "index.html": "/product-listing/index.html",
+    "precache-manifest.821fc2b3bca3b54625c9e68ba4e31a37.js": "/product-listing/precache-manifest.821fc2b3bca3b54625c9e68ba4e31a37.js",
+    "service-worker.js": "/product-listing/service-worker.js",
+    "static/css/main.530fc570.chunk.css.map": "/product-listing/static/css/main.530fc570.chunk.css.map",
+    "static/js/2.980dd07e.chunk.js.LICENSE.txt": "/product-listing/static/js/2.980dd07e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deece3d5.js",
+    "static/js/2.980dd07e.chunk.js",
+    "static/css/main.530fc570.chunk.css",
+    "static/js/main.f3c506e6.chunk.js"
+  ]
+}
