@@ -111,3 +111,19 @@ ul {
   text-align: center;
   font-size: 12px;
 }
+
+@media only screen and (max-width: 600px) {
+  nav {
+    display: none !important;
+  }
+
+  .right-side, .left-side {
+    width: 100%;
+  }
+  .left-side {
+    height: fit-content;
+  }
+  .product {
+    width: 45%;
+  }
+}
