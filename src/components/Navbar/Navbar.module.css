@@ -1,0 +1,49 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.category , .account {
+    display: flex;
+}
+
+.category > li , .account >li {
+    padding: 0 0.5rem 1rem;
+    font-size: 14px;
+}
+
+
+.category > li:hover , .account >li:hover {
+    cursor: pointer;
+    background-color: darkcyan;
+}
+
+.category > li {
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+
+.search > input {
+    width: 350px;
+    height: 1.7rem;
+}
+.search > button {
+    height: 2rem;
+}
+
+.search {
+    margin: auto;
+}
+
+.wish {
+    position: relative;
+    top: -5px
+}
+
+.wish > sup {
+    border-radius: 50%;
+    background-color: darkcyan;
+    padding: 4px;
+    font-size: 15px;
+}
