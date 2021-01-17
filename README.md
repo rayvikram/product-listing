@@ -1,3 +1,5 @@
+## A Jewellery store homepage made as an assignment
+
 ## Features: 
 - Filters in product
 
